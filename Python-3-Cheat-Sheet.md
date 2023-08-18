@@ -85,12 +85,14 @@
 
 ---
 EXCEPTION HANDLING:
+   ```
     try:
         # code
     except ExceptionType:
         # handling code
     finally:
         # code to run always
+   ```
 
 ---
 ### MODULES AND LIBRARIES:
