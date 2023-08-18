@@ -57,6 +57,7 @@
    - User input:
      variable = input("Prompt")
 
+---
 ### STRING MANIPULATION:
    - Concatenation: "Hello" + " " + "World"
    - Formatting: f"Value: {value}"
@@ -74,11 +75,11 @@
 
 ---
 ### FILE HANDLING:
-    - Opening:
+   - Opening:
       with open("file.txt", "r") as file:
           content = file.read()
 
-    - Writing:
+   - Writing:
       with open("file.txt", "w") as file:
           file.write("New content")
 
@@ -93,20 +94,20 @@ EXCEPTION HANDLING:
 
 ---
 ### MODULES AND LIBRARIES:
-    - Importing:
+   - Importing:
       import module_name
       from module_name import function
 
 ---
 ### CLASSES AND OBJECTS:
-    - Creating:
+   - Creating:
       class ClassName:
           def __init__(self, params):
               self.param = param
           def method(self):
               # code
 
-    - Instantiating:
+   - Instantiating:
       obj = ClassName(arguments)
       obj.method()
 
