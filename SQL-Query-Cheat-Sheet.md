@@ -220,4 +220,3 @@ SELECT column1,
 FROM table_name;
 ```
 
-Copy and paste the above Markdown code into your GitHub repository to have a handy SQL cheat sheet ready for use!
