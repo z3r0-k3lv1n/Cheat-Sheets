@@ -1,5 +1,4 @@
 # Linux Commands List
----
 
 Source: [https://phoenixnap.com/kb/linux-commands-cheat-sheet]
 
