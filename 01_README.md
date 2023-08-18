@@ -1,7 +1,7 @@
-# cheat-sheets
+# Cheat Sheets
 A Repo of cheat sheets for working with a variety of systems and resources pulled from a variety of sources.
 
-## Descriptions of the provided resources
+## Descriptions
 
 ### Bash Scripting Cheat Sheet: Essential commands and syntax for writing Bash scripts.
 The provided Bash Scripting Cheat Sheet offers a concise reference for essential commands and syntax used in writing Bash scripts. It is designed to aid beginners and experienced scriptwriters in quickly grasping fundamental concepts, such as variables, conditionals, loops, file operations, and more. This cheat sheet serves as a valuable quick reference during script development, enabling users to efficiently create, modify, and troubleshoot Bash scripts. However, due to its concise nature, it does not delve deeply into advanced topics, complex scripting scenarios, or more intricate Bash functionalities. Users seeking comprehensive guidance on intricate scripting techniques may need to consult additional resources, such as official Bash documentation or more detailed tutorials.
