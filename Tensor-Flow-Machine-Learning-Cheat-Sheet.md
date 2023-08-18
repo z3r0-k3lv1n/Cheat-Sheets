@@ -118,3 +118,5 @@ result = custom_operation(5)
 ## Conclusion
 
 This cheat sheet covers the basics of TensorFlow for machine learning. For more details, refer to the official [TensorFlow documentation](https://www.tensorflow.org/).
+
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
