@@ -58,3 +58,4 @@ This TensorFlow Cheat Sheet provides a concise overview of the fundamental aspec
 ### Windows Powershell Cheat Sheet
 This concise Markdown-based Windows PowerShell cheat sheet offers a practical reference for system administrators and enthusiasts seeking to streamline Windows environment management and automation. Providing an array of essential commands for file manipulation, process and service handling, variable management, and remote administration, the cheat sheet serves as a handy quick-reference guide. However, due to its brevity, it may not delve into more advanced topics or intricate scripting scenarios, and users may need to refer to comprehensive documentation for in-depth insights into PowerShell's capabilities.
 
+---
