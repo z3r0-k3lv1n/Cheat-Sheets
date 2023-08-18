@@ -1,7 +1,7 @@
 # Linux Commands List
 ---
 
-The commands found in the downloadable cheat sheet are listed below.
+Source: [https://phoenixnap.com/kb/linux-commands-cheat-sheet]
 
 ## Hardware Information
 
