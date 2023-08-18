@@ -114,3 +114,8 @@ EXCEPTION HANDLING:
       obj.method()
 
 Remember to consult official documentation for more details: https://docs.python.org/3/
+
+**Note:** This cheat sheet is a reference guide and might not cover all scenarios. Always refer to the official documentation and consult with experienced developers for complex projects.
+
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
+
