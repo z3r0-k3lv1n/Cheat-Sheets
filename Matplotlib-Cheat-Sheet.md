@@ -147,4 +147,4 @@ plt.grid(True)
 plt.style.use('seaborn')
 ```
 
-You can copy and paste this Markdown code into your GitHub repository to create a Matplotlib cheat sheet for plotting and visualization in Python.
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
