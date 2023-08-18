@@ -103,6 +103,9 @@ df.to_sql('table', engine, index=False)    # Save to SQL database
 > Remember to replace the placeholders like value1, value2, file.csv, database.db, etc., with actual values relevant to your dataset. Happy coding!
 
 ---
-Feel free to send a pull request into your GitHub repository for a comprehensive Pandas Cheat Sheet.
+**Note:** This cheat sheet is a reference guide and might not cover all scenarios. Always refer to the official documentation and consult with experienced developers for complex projects.
+
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
+
 
 
