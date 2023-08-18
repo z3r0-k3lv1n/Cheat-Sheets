@@ -1,5 +1,7 @@
 # Google dork cheatsheet
 
+Source: [https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06]
+
 ## Search filters
 | Filter          | Description                                        | Example                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
@@ -93,3 +95,8 @@ Putting an asterisk in a search tells Google ‘I don’t know what goes  here�
 ```
 site:*.com
 ```
+
+---
+**Note:** This cheat sheet is a reference guide and might not cover all scenarios. Always refer to the official documentation and consult with experienced developers for complex projects.
+
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
