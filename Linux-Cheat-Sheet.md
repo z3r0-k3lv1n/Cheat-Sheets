@@ -1,4 +1,5 @@
 # Linux Commands List
+---
 
 The commands found in the downloadable cheat sheet are listed below.
 
@@ -52,7 +53,9 @@ Run a disk check on an unmounted disk or partition:
 
 `fsck [disk-or-partition-location]`
 
+===================================================================================
 ### Searching
+===================================================================================
 
 Search for a specific pattern in a file with grep:
 
