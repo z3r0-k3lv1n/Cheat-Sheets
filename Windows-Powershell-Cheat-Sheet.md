@@ -69,3 +69,5 @@ For more information and detailed documentation, visit the [official PowerShell 
 
 **Remember:** PowerShell scripts execution policy might need to be adjusted. Use `Set-ExecutionPolicy` to change the policy.
 
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
+
