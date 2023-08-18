@@ -51,3 +51,8 @@ Here's a quick reference for common HTTP status codes and their meanings:
 ---
 
 This cheat sheet is a quick reference for common HTTP status codes. For more details, refer to the [HTTP Status Code Definitions](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml) document.
+
+---
+**Note:** This cheat sheet is a reference guide and might not cover all scenarios. Always refer to the official documentation and consult with experienced developers for complex projects.
+
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
