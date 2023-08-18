@@ -134,4 +134,4 @@ loaded_arr = np.load('my_array.npy')
 
 NumPy offers many more functions and capabilities for numerical computing. Check the [NumPy documentation](https://numpy.org/doc/stable/) for a comprehensive reference.
 
-Feel free to create a pull request and customize and format the cheat sheet according to your preferences.
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
