@@ -220,3 +220,4 @@ SELECT column1,
 FROM table_name;
 ```
 
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
