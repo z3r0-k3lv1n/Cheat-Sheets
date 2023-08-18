@@ -69,4 +69,9 @@ Flags are used to modify how the regex is interpreted. They can be added after t
 - [Regexr](https://regexr.com/): Another online regex testing tool.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions): MDN's guide to regular expressions.
 
-Remember that different programming languages and tools may have variations in their regex implementations.
+**Remember** that different programming languages and tools may have variations in their regex implementations.
+
+**Note:** This cheat sheet is a reference guide and might not cover all scenarios. Always refer to the official documentation and consult with experienced developers for complex projects.
+
+Feel free to create a pull request and customize and format this cheat sheet according to your preferences.
+
