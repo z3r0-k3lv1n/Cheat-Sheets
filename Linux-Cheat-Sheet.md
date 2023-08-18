@@ -53,9 +53,9 @@ Run a disk check on an unmounted disk or partition:
 
 `fsck [disk-or-partition-location]`
 
-===================================================================================
+---
 ### Searching
-===================================================================================
+---
 
 Search for a specific pattern in a file with grep:
 
@@ -203,7 +203,9 @@ Store the command output in a file and skip the terminal output:
 And if you want to find out how to determine the type of a file and its data, read our article about Linux file command.
 To view a file's contents one screen at a time read about less command in Linux.
 
+---
 ### Directory Navigation
+---
 Move up one level in the directory tree structure:
 
 `cd ..`
@@ -216,7 +218,9 @@ Change location to a specified directory:
 
 `cd /chosen/directory`
 
+---
 ### File Compression
+---
 
 Archive an existing file:
 
@@ -234,9 +238,11 @@ Compress a file with the .gz extension:
 
 gzip [file_name]
 
->Note: For a more comprehensive overview of how to use tar refer to our guide tar Command in Linux With Examples.
+> Note: For a more comprehensive overview of how to use tar refer to our guide tar Command in Linux With Examples.
 
+---
 ### File Transfer
+---
 
 Copy a file to a server directory securely using the Linux scp command:
 
@@ -246,7 +252,9 @@ Synchronize the contents of a directory with a backup directory using the rsync 
 
 `rsync -a [/your/directory] [/backup/] `
 
+---
 ### Users and Groups
+---
 
 See details about the active users:
 
@@ -294,7 +302,9 @@ Change directory group:
 
 > Note: If you want to learn more about users and groups, take a look at our article on how to add a user to a group in Linux.
 
+---
 ### Package Installation
+---
 
 List all installed packages with yum:
 
@@ -338,7 +348,10 @@ make
 make install
 ```
 
+---
 ### Process Related
+---
+
 See a snapshot of active processes:
 
 `ps`
@@ -397,7 +410,9 @@ Run a Linux process in the background:
 
 > Note: If you want to learn more about shell jobs, how to terminate jobs or keep them running after you log off, check out our article on how to use disown command.
 
+---
 ### System Management and Information
+---
 
 Show system information via uname command:
 
@@ -463,7 +478,10 @@ Add a new kernel module:
 
 `modprobe [module-name]`
 
+---
 ### Disk Usage
+---
+
 You can use the df and du commands to check disk space in Linux.
 
 See free and used space on mounted systems:
@@ -494,7 +512,10 @@ Mount a device:
 
 `mount [device_path] [mount_point]`
 
+---
 ### SSH Login
+---
+
 Connect to host as user:
 
 `ssh user@host`
@@ -513,7 +534,10 @@ Connect to host via telnet default port 23:
 
 > Note: For a detailed explanation of SSH Linux Commands, refer to our 19 Common SSH Commands in Linux tutorial.
 
+---
 ### File Permission
+---
+
 Chown command in Linux changes file and directory ownership.
 
 Assign read, write, and execute permission to everyone:
@@ -538,7 +562,10 @@ Change the owner and group ownership of a file:
 
 > Note: To learn more about how to check and change permissions, refer to our Linux File Permission Tutorial.
 
+---
 ### Network
+---
+
 List IP addresses and network interfaces:
 
 `ip addr show`
@@ -595,7 +622,10 @@ Save a remote file to your system using the filename that corresponds to the fil
 
 `curl -O [file-url]`
 
+---
 ### Variables
+---
+
 Assign an integer value to a variable:
 
 `let "[variable]=[value]"`
@@ -616,7 +646,9 @@ Display the value of a variable:
 
 `echo $[variable-name]`
 
+---
 ### Shell Command Management
+---
 
 Create an alias for a command:
 
@@ -642,7 +674,9 @@ Print the history of the commands you used in the terminal:
 
 `history`
 
+---
 ### Linux Keyboard Shortcuts
+---
 
 Kill process running in the terminal:
 
